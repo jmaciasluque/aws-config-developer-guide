@@ -1,4 +1,4 @@
-# sagemaker\-notebook\-kms\-configured<a name="sagemaker-notebook-kms-configured"></a>
+# sagemaker\-notebook\-instance\-kms\-key\-configured<a name="sagemaker-notebook-instance-kms-key-configured"></a>
 
 Check whether an AWS Key Management Service \(KMS\) key is configured for SageMaker notebook instance\. The rule is not NON\_COMPLIANT if `kmsKeyId` is not specified for the SageMaker notebook instance\. 
 
